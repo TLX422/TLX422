@@ -1,4 +1,7 @@
-## Hi there 👋
+<h2 style="background: linear-gradient(to right, #ff6b9d, #c44569, #f8b500); -webkit-background-clip: text; color: transparent;">
+  ✨ Hi there 👋 ✨
+</h2>
+
 > 一个渴望高超技术代码爱好者 🧑💻
 ### 👋 Hi, I'm [唐丽秀]
 - 😄 中南民族大学计算机类在读大学生
@@ -24,3 +27,6 @@
 > “C 语言教会我：**每一个指针都要负责到底，就像人生的每一步选择都要清晰**” —— 我的编程感悟
 - 💬 最喜欢的 C 语言特性：指针 & 位运算
 - 🎧 写代码时必听：纯音乐 /周杰伦
+  <p align="center" style="font-size:20px; color:#666;">
+  🔥 热爱生命 ❤️ 🔥
+</p>
